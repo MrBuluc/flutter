@@ -1,3 +1,4 @@
 flutter_burc_rehberi\build\app\intermediates\flutter\debug\flutter_assets\kernel_blob.bin = https://drive.google.com/open?id=1LmhPgbp4kzi0j_q1oXIJ7PmQ4ISgVkQk
 flutter_burc_rehberi\build\app\intermediates\merged_assets\debug\out\flutter_assets\kernel_blob.bin = https://drive.google.com/open?id=13Gpl71g7AkiqtQBalQ_0XSnM8M_RoXoS
 flutter_burc_rehberi\build\app\intermediates\merged_native_libs\debug\out\lib\x86\libflutter.so = https://drive.google.com/open?id=16GCkwhhtAXhhppuaJXgL9_JYQRfAvf9Q
+flutter_burc_rehberi\build\app\intermediates\merged_native_libs\debug\out\lib\x86_64\libflutter.so = https://drive.google.com/open?id=1ozPZjCZn99tyOpoYvL466P0bgs9gjz7u
