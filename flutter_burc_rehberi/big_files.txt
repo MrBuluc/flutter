@@ -1,0 +1,1 @@
+flutter_burc_rehberi\build\app\intermediates\flutter\debug\flutter_assets\kernel_blob.bin = https://drive.google.com/open?id=1LmhPgbp4kzi0j_q1oXIJ7PmQ4ISgVkQk
