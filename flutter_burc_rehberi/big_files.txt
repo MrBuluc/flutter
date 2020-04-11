@@ -5,3 +5,4 @@ flutter_burc_rehberi\build\app\intermediates\merged_native_libs\debug\out\lib\x8
 flutter_burc_rehberi\build\app\intermediates\module_bundle\release\buildReleasePreBundle\out\base.zip = https://drive.google.com/open?id=1OTyrvFy2Z__RqVxZW0fVJ8yGS94QEOtd
 flutter_burc_rehberi\build\app\intermediates\stripped_native_libs\debug\out\lib\x86\libflutter.so = https://drive.google.com/open?id=1kJ5WaMEpM_ifUDsiMRuMLFZCHjM__0KG
 flutter_burc_rehberi\build\app\intermediates\stripped_native_libs\debug\out\lib\x86_64\libflutter.so = https://drive.google.com/open?id=1IhIqZv0GPb55XGus9R5OVzcQAknNw4oO
+flutter_burc_rehberi\build\app\outputs\apk\debug\app-debug.apk = https://drive.google.com/open?id=1tNyPThbm4skkpqUQN0vpKYEPNUwNb-NW
