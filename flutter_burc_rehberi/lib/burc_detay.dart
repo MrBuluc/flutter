@@ -32,7 +32,6 @@ class _BurcDetayState extends State<BurcDetay> {
     ugurluRengiBul(secilenBurc);
     mod2 = widget.bL1.kRenk1;
     if(mod2) detayRenk = Colors.white;
-    debugPrint(mod2.toString());
   }
 
   void baskinRengiBul() {
