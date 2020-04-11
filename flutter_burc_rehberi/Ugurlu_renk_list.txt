@@ -1,0 +1,12 @@
+Koç =>  Ateþ kýrmýzýsý
+Boða => Pastel Mavi, Lila
+Ikizler => Sarý
+Yengeç => Beyaz
+Aslan => Sarý
+Baþak => Kobalt mavisi
+Terazi => Turkuaz ve mat renkler
+Akrep => Kýrmýzý ve siyah
+Yay => Mor ve koyu mavi
+Oðlak => Koyu kahverengi ve gri
+Kova => Lacivert
+Balýk => Turkuaz ve yeþil
